@@ -8,3 +8,13 @@
 	url = https://github.com/aallignol/kmi
 	shallow = true
 	registered = true
+[submodule "lgtdl"]
+	path = lgtdl
+	url = https://github.com/cran/lgtdl
+	shallow = true
+	registered = true
+[submodule "mvna"]
+	path = mvna
+	url = https://github.com/cran/mvna
+	shallow = true
+	registered = true
